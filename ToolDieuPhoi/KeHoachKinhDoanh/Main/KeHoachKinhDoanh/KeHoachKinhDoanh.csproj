@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E3C638F-F325-466C-BEFC-9B305BBF6498}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KeHoachKinhDoanh</RootNamespace>
+    <AssemblyName>KeHoachKinhDoanh</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net20\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\cls_DieuPhoi.cs" />
+    <Compile Include="Class\cls_DM_Barcode.cs" />
+    <Compile Include="frmBaoCaoDoiChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoCaoDoiChieu.Designer.cs">
+      <DependentUpon>frmBaoCaoDoiChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDieuPhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDieuPhoi.Designer.cs">
+      <DependentUpon>frmDieuPhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportBarcode.Designer.cs">
+      <DependentUpon>frmImportBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportDieuPhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportDieuPhoi.Designer.cs">
+      <DependentUpon>frmImportDieuPhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLayDuLieuDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLayDuLieuDP.Designer.cs">
+      <DependentUpon>frmLayDuLieuDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DM_SanPham_Barcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DM_SanPham_Barcode.Designer.cs">
+      <DependentUpon>frm_DM_SanPham_Barcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBaoCaoDoiChieu.resx">
+      <DependentUpon>frmBaoCaoDoiChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDieuPhoi.resx">
+      <DependentUpon>frmDieuPhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportBarcode.resx">
+      <DependentUpon>frmImportBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportDieuPhoi.resx">
+      <DependentUpon>frmImportDieuPhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLayDuLieuDP.resx">
+      <DependentUpon>frmLayDuLieuDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DM_SanPham_Barcode.resx">
+      <DependentUpon>frm_DM_SanPham_Barcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccessData\AccessData.csproj">
+      <Project>{63CA0867-9625-4229-9FAD-C376D8C8BB75}</Project>
+      <Name>AccessData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

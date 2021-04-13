@@ -1,0 +1,62 @@
+D:\Main\AccessData\bin\Debug\AccessData.dll
+D:\Main\AccessData\bin\Debug\AccessData.pdb
+D:\Main\AccessData\obj\Debug\AccessData.dll
+D:\Main\AccessData\obj\Debug\AccessData.pdb
+D:\Main\AccessData\obj\Debug\AccessData.csprojResolveAssemblyReference.cache
+D:\BuiHien\On going\Main Project\Main\AccessData\bin\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project\Main\AccessData\bin\Debug\AccessData.pdb
+D:\BuiHien\On going\Main Project\Main\AccessData\obj\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project\Main\AccessData\obj\Debug\AccessData.pdb
+D:\BuiHien\On going\Main Project\Main\AccessData\obj\Debug\AccessData.csprojResolveAssemblyReference.cache
+D:\BuiHien\On going\Main Project Vertical\Main\AccessData\bin\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project Vertical\Main\AccessData\bin\Debug\AccessData.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\AccessData\obj\Debug\AccessData.csproj.ResolveComReference.cache
+D:\BuiHien\On going\Main Project Vertical\Main\AccessData\obj\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project Vertical\Main\AccessData\obj\Debug\AccessData.pdb
+D:\Sources\Main\Main\AccessData\bin\Debug\AccessData.dll
+D:\Sources\Main\Main\AccessData\bin\Debug\AccessData.pdb
+D:\Sources\Main\Main\AccessData\obj\Debug\AccessData.dll
+D:\Sources\Main\Main\AccessData\obj\Debug\AccessData.pdb
+D:\Sources\Main\Main\AccessData\obj\Debug\AccessData.csprojResolveAssemblyReference.cache
+D:\source\EMS\Main\AccessData\bin\Debug\AccessData.dll
+D:\source\EMS\Main\AccessData\bin\Debug\AccessData.pdb
+D:\source\EMS\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+D:\source\EMS\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+D:\source\EMS\Main\AccessData\obj\Debug\AccessData.dll
+D:\source\EMS\Main\AccessData\obj\Debug\AccessData.pdb
+G:\ToolDieuPhoi\EMS\Main\AccessData\bin\Debug\AccessData.dll
+G:\ToolDieuPhoi\EMS\Main\AccessData\bin\Debug\AccessData.pdb
+G:\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+G:\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.dll
+G:\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.pdb
+G:\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\bin\Debug\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\bin\Debug\AccessData.pdb
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AccessData\obj\Debug\AccessData.pdb
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.dll
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.pdb
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.dll
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.pdb
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.dll
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.pdb
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.dll
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.pdb
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.dll
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Debug\AccessData.pdb
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csprojAssemblyReference.cache
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.dll
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Debug\AccessData.pdb

@@ -1,0 +1,17 @@
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\bin\Debug\ActivityMonitor.dll
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\bin\Debug\ActivityMonitor.pdb
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\obj\Debug\ActivityMonitor.dll
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\obj\Debug\ActivityMonitor.pdb
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\obj\Debug\ActivityMonitor.frmAutoLogout.resources
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\obj\Debug\ActivityMonitor.csproj.GenerateResource.Cache
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\bin\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project\Main\ActivityMonitor\bin\Debug\AccessData.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\bin\Debug\ActivityMonitor.dll
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\bin\Debug\ActivityMonitor.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\bin\Debug\AccessData.dll
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\bin\Debug\AccessData.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\obj\Debug\ActivityMonitor.csprojResolveAssemblyReference.cache
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\obj\Debug\ActivityMonitor.frmAutoLogout.resources
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\obj\Debug\ActivityMonitor.csproj.GenerateResource.Cache
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\obj\Debug\ActivityMonitor.dll
+D:\BuiHien\On going\Main Project Vertical\Main\ActivityMonitor\obj\Debug\ActivityMonitor.pdb

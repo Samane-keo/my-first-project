@@ -1,0 +1,6 @@
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Release\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\bin\Release\AccessData.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Release\AccessData.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Release\AccessData.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Release\AccessData.dll
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AccessData\obj\Release\AccessData.pdb

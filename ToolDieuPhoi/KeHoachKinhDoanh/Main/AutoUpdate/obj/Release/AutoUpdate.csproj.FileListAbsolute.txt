@@ -1,0 +1,9 @@
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Release\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Release\AutoUpdate.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.Form1.resources
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.Properties.Resources.resources
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.csproj.GenerateResource.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Release\AutoUpdate.pdb

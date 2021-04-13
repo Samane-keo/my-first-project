@@ -1,0 +1,77 @@
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\BuiHien\On going\Main Project\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\BuiHien\On going\Main Project Vertical\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\Sources\Main\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\Sources\Main\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\Sources\Main\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\source\EMS\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\source\EMS\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\source\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\EMS\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\Source\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\SOURCE\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\ghichu\ToolDieuPhoi\KeHoachKinhDoanh\Main\AutoUpdate\obj\Debug\AutoUpdate.pdb

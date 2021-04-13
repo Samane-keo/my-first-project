@@ -1,0 +1,4 @@
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\Reports\obj\Release\Reports.csprojAssemblyReference.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\Reports\obj\Release\Reports.frmReportViewer.resources
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\Reports\obj\Release\Reports.csproj.GenerateResource.cache
+E:\Source_Tool\ToolDieuPhoi\KeHoachKinhDoanh\Main\Reports\obj\Release\Reports.csproj.CoreCompileInputs.cache
